@@ -1,4 +1,4 @@
-# Django Coding Challenge for Cytracom
+# Django Coding Challenge
 
 This simple Django project uses Docker and can be built via `docker compose build` and run via `docker compose up`
 
